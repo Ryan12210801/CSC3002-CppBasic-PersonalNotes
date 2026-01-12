@@ -118,7 +118,7 @@ cin >> x;
 
 ### 5.2 Input Manipulators（易考）
 
-[5.2 Input Manipulators（`skipws / noskipws / ws`）详细讲解](4%20Streams%20in%20C++/5%202%20Input%20Manipulators%EF%BC%88skipws%20noskipws%20ws%EF%BC%89%E8%AF%A6%E7%BB%86%E8%AE%B2%E8%A7%A3%202c92b212942d809090e0e514c6fe89b3.md)
+[5.2 Input Manipulators（`skipws / noskipws / ws`）详细讲解](04-1.md)
 
 - `skipws`：跳过空白（默认）
 - `noskipws`：不跳过空白
@@ -134,7 +134,7 @@ cin >> noskipws >> ch；
 
 ## 6. Files（文件流，重点）
 
-[6. Files（文件流）——系统讲解版复习讲义](4%20Streams%20in%20C++/6%20Files%EF%BC%88%E6%96%87%E4%BB%B6%E6%B5%81%EF%BC%89%E2%80%94%E2%80%94%E7%B3%BB%E7%BB%9F%E8%AE%B2%E8%A7%A3%E7%89%88%E5%A4%8D%E4%B9%A0%E8%AE%B2%E4%B9%89%202c92b212942d80c4b5d2f20a21b58a52.md)
+[6. Files（文件流）——系统讲解版复习讲义](04-2.md)
 
 ### 6.1 File 的本质
 
