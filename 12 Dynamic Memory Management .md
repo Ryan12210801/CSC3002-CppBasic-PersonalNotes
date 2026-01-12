@@ -283,7 +283,7 @@ delete[] array;
 
 ## 12.6 Copying Objects（极其重要，必考）
 
-[保姆极精讲](12%20Dynamic%20Memory%20Management/%E4%BF%9D%E5%A7%86%E6%9E%81%E7%B2%BE%E8%AE%B2%202cd2b212942d80b38d00d8447ed93806.md)
+[保姆极精讲](assests/12.md)
 
 ### 一、默认拷贝的问题：Shallow Copy
 
