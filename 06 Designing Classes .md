@@ -309,7 +309,7 @@ ostream& operator<<(ostream& os, Point pt) {
 
 ### 10.3 Member vs Free Function
 
-[详细精讲](6%20Designing%20Classes/%E8%AF%A6%E7%BB%86%E7%B2%BE%E8%AE%B2%202cc2b212942d80fbafa6cc7f7d7ad82f.md)
+[详细精讲](assets/06.md)
 
 **Member function**：
 
