@@ -118,7 +118,7 @@ cin >> x;
 
 ### 5.2 Input Manipulators（易考）
 
-[5.2 Input Manipulators（`skipws / noskipws / ws`）详细讲解](04-1.md)
+[5.2 Input Manipulators（`skipws / noskipws / ws`）详细讲解](assests/04-1.md)
 
 - `skipws`：跳过空白（默认）
 - `noskipws`：不跳过空白
@@ -134,7 +134,7 @@ cin >> noskipws >> ch；
 
 ## 6. Files（文件流，重点）
 
-[6. Files（文件流）——系统讲解版复习讲义](04-2.md)
+[6. Files（文件流）——系统讲解版复习讲义](assests/04-2.md)
 
 ### 6.1 File 的本质
 
